@@ -1,0 +1,7 @@
+C:\Users\that1\Desktop\C#\Link Based Queue\Link Based Queue\obj\Debug\Link Based Queue.csprojAssemblyReference.cache
+C:\Users\that1\Desktop\C#\Link Based Queue\Link Based Queue\obj\Debug\Link Based Queue.csproj.CoreCompileInputs.cache
+C:\Users\that1\Desktop\C#\Link Based Queue\Link Based Queue\bin\Debug\Link Based Queue.exe.config
+C:\Users\that1\Desktop\C#\Link Based Queue\Link Based Queue\bin\Debug\Link Based Queue.exe
+C:\Users\that1\Desktop\C#\Link Based Queue\Link Based Queue\bin\Debug\Link Based Queue.pdb
+C:\Users\that1\Desktop\C#\Link Based Queue\Link Based Queue\obj\Debug\Link Based Queue.exe
+C:\Users\that1\Desktop\C#\Link Based Queue\Link Based Queue\obj\Debug\Link Based Queue.pdb
